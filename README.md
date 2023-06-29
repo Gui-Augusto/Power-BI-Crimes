@@ -3,4 +3,4 @@ Trabalho de Power-BI realizado durante a materia de Fundamentos de Sistemas de I
 
 https://app.powerbi.com/links/owXb4yDlyy?ctid=14e4c69d-0c88-4baf-b21f-375aec973fb8&pbi_source=linkShare
 
-[Crimes_BI.pdf](https://github.com/Gui-Augusto/Power-BI-Crimes/files/11907765/Crimes_BI.pdf)
+![image](https://github.com/Gui-Augusto/Power-BI-Crimes/assets/105065243/b78af43d-07ba-48c4-9f56-8ba02acb8eca)
